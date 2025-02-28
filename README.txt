@@ -4,9 +4,11 @@ Como entorno de desarrollo se utilizo XAMPP, como un entorno de desarrollo local
 
 ----------Instalación----------
 
-1.-Como se menciono anteriormente se utilizo XAMPP mas los servicios de Apache y MySQL, por lo que para que el proyecto funcione se debe copiar la carpeta a la ruta de instalación de XAMPP, en mi caso : "C:\xampp\htdocs\transportes-panel".
+1.-Descargar el repositorio de Github o clonarlo.
 
-2.-Para continuar con la instalación del proyecto se debe abrir phpMyAdmin e importar el archivo de transportes.sql.
+2.-Como se menciono anteriormente se utilizo XAMPP mas los servicios de Apache y MySQL, por lo que para que el proyecto funcione se debe copiar la carpeta a la ruta de instalación de XAMPP, en mi caso : "C:\xampp\htdocs\Prueba-Tecnica-main".
+
+3.-Para continuar con la instalación del proyecto se debe abrir phpMyAdmin e importar el archivo de transportes.sql.
 
 
 ----------Configuración API Key----------
@@ -23,7 +25,7 @@ Como entorno de desarrollo se utilizo XAMPP, como un entorno de desarrollo local
 
 
 1.-Acceso al Panel Principal
-   -la aplicación consta de una sola pagina, la cual seria  http://localhost/transportes-panel/index.php.
+   -la aplicación consta de una sola pagina, la cual seria  http://localhost/Prueba-Tecnica-main/index.php.
 
 2.-Lista de Viajes
 	-Se muestra una tabla con todos los registros de los viajes
