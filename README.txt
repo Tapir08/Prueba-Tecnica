@@ -1,6 +1,6 @@
 ----------Introducción----------
 
-Como entorno de desarrollo local se utilizo XAMPP,tambien  se incluyeron algunas tecnologías de front-endademás de las solicitadas, las cuales serian Bootstrap,DataTables y Sweet-Alert para darle mas dinamismo e interacción a la app.
+Como entorno de desarrollo local se utilizo XAMPP,tambien  se incluyeron algunas tecnologías de front-end además de las solicitadas, las cuales serian Bootstrap,DataTables y Sweet-Alert para darle mas dinamismo e interacción a la app.
 
 ----------Instalación----------
 
